@@ -1,0 +1,19 @@
+body {background-image:url(fondo.png);
+    background-size: cover;
+    }
+#cabecera {background-color: pink;
+    color:aliceblue;
+    text-align:center
+    }
+    #menu {background-color: rgb(183, 0, 255);
+    color: aliceblue;}
+    div{border:1.5px solid red;
+    margin: 30px 30px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    }
+    .enlaceRecursos {background-color:pink;
+    text-decoration:none;
+    }
+    .enlaceRecursos:hover {color:black;
+    background-color: red;}
+   
